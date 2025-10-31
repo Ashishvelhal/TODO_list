@@ -1,6 +1,6 @@
 # 📝 Todo List Application in JavaScript
 
-This is a simple **Todo List Application** built using **HTML**, **CSS**, and **JavaScript**. In this app, users can add, remove, and mark tasks as completed.
+This is a simple **Todo List Application** built using **HTML**, **CSS**, and **JavaScript**. In this app, users can add, remove, and mark tasks as completed..
 
 ## 🔗 Demo
 
